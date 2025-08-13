@@ -1,0 +1,12 @@
+streamlit>=1.25.0
+sentence-transformers>=2.2.2
+faiss-cpu
+pypdf
+python-docx
+youtube-transcript-api
+deep-translator
+textblob
+langdetect
+langid
+tqdm
+numpy
